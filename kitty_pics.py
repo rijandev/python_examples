@@ -1,6 +1,6 @@
 import requests
-import json
-import random
+
+
 
 
 cat_ids=[]
