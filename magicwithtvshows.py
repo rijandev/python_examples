@@ -70,8 +70,8 @@ def showMagic(datum):
     #print(country_name["name"])
     
 
-    #for i in range(len(datum)):        ##does not work, cant iterate through datum because json object does has keys and values, not multiple json objects                                 ##to refer to its data, you need to use the keys from the file 
-        #return datum[i]
+    #for i in range(len(datum)):        ##does not work, cant iterate through datum because data file has keys and values, not multiple json objects                                 ##to refer to its data, you need to use the keys from the file 
+        #return datum[i]                ##to refer to its data, you need to use the keys from the file
 
 
 
