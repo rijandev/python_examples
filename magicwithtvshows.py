@@ -1,10 +1,9 @@
 import requests
-import json
-import csv
 
  
 #todo: make this a cli or gui app where i can just drop url
 #todo: syntehsize api request for use in cli app
+#todo: add structure to the output file
 
 
 #extract
