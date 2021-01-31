@@ -1,7 +1,10 @@
 import requests
 
 
-
+#todo: add folder for organizing the kitty pictures
+#todo: better navigation of the cataas api?
+#todo: pass tag parameters through cli\gui
+#todo: wallpaper app with os module and unsplash 
 
 cat_ids=[]
 
